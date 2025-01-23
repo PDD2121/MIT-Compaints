@@ -1,0 +1,13 @@
+streamlit
+smtplib
+ssl
+gwpy
+sqlite3
+pandas
+pyqrcode
+pypng
+png
+amzqr
+Pillow
+IPython
+matplotlib
